@@ -1,0 +1,16 @@
+body {
+  front-family: "tahoma";
+  color:blue;
+  background-color:#ddddff;
+}
+
+h1 {
+  color:rgba(255, 127, 127, 0.87);
+  text-align: center;
+  front-size:3.5em
+}
+
+h2 {
+  color:rgba(210, 255, 47, 0.932);
+  text-align: left;
+}
